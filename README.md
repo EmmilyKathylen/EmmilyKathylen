@@ -1,4 +1,5 @@
-## Hi there 👋
+## Olá mundo! 
+<p>Eu me chamo Emmily, tenho 23 anos, estou muito feliz e entusiasmada com essa jornada de aprendizado e desenvolvimento. Já estudei Programação com foco em desenvolvimento web e agora estou reaprendendo o que já sei com foco em teste de software. </p>
 
 <!--
 **EmmilyKathylen/EmmilyKathylen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
